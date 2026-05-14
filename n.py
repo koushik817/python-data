@@ -1,4 +1,4 @@
-m=int(input("enteryear:"))
+m=int(input("enter year:"))
 
 if m%4==0:
    print(m,"is a leap year")
